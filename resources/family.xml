@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<families>
+	<family id="1">
+		<mother maiden-name="Ivanova">
+			<first-name>Kate</first-name>
+			<last-name>Petrova</last-name>
+			<age>29</age>
+		</mother>
+		<father>
+			<first-name>Igor</first-name>
+			<last-name>Petrov</last-name>
+			<age>30</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<first-name>Dima</first-name>
+				<last-name>Petrov</last-name>
+				<age>5</age>
+				<gender>male</gender>
+			</child>
+			<child>
+				<first-name>Yana</first-name>
+				<last-name>Petrova</last-name>
+				<age>7</age>
+				<gender>female</gender>
+			</child>
+		</children>
+	</family>
+	<family id="2">
+		<mother maiden-name="Novaya">
+			<first-name>Tina</first-name>
+			<last-name>Sletlova</last-name>
+			<age>32</age>
+		</mother>
+		<father>
+			<first-name>Pavel</first-name>
+			<last-name>Sletlov</last-name>
+			<age>33</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<first-name>Nina</first-name>
+				<last-name>Sletlova</last-name>
+				<age>2</age>
+				<gender>female</gender>
+			</child>
+			<child>
+				<first-name>Sergey</first-name>
+				<last-name>Sletlov</last-name>
+				<age>7</age>
+				<gender>male</gender>
+			</child>
+			<child>
+				<first-name>Alex</first-name>
+				<last-name>Sletlov</last-name>
+				<age>2</age>
+				<gender>male</gender>
+			</child>
+		</children>
+	</family>
+	<family  id="3">
+		<mother maiden-name="Taras">
+			<first-name>Inna</first-name>
+			<last-name>Gorkova</last-name>
+			<age>18</age>
+		</mother>
+		<father>
+			<first-name>Misha</first-name>
+			<last-name>Gorkov</last-name>
+			<age>19</age>
+			<military />
+		</father>
+		<children>
+			<child>
+				<first-name>Nastya</first-name>
+				<last-name>Gorkova</last-name>
+				<age>1</age>
+				<gender>female</gender>
+			</child>
+			<child>
+				<first-name>Petya</first-name>
+				<last-name>Gorkov</last-name>
+				<age>3</age>
+				<gender>male</gender>
+			</child>
+		</children>
+	</family>
+
+</families>

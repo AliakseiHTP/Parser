@@ -5,4 +5,6 @@ import by.htp.xml.entity.Families;
 public interface FamilyParser {
 
 	public Families parseFamilyDoc(String path);
+
+	public Families familyParse(String path);
 }

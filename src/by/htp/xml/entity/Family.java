@@ -6,6 +6,7 @@ public class Family {
     private int id;
     private Father father;
     private Mother mother;
+    private Child child;
     private ArrayList<Child> children;
 
     public Family() {}
@@ -31,6 +32,14 @@ public class Family {
 
     public void setMother(Mother mother) {
         this.mother = mother;
+    }
+    
+    public Child getChild() {
+        return child;
+    }
+
+    public void setChild(Child child) {
+        this.child = child;
     }
 
     public ArrayList<Child> getChildren() {
